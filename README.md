@@ -16,14 +16,14 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ### 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melocet&show_icons=true&theme=tokyonight)
 
 ### 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/b0o2v0e8dxkd502nupvovhw80?si=e8cd9744356441da)
 
 ### 📫 Contact Me
-- ✉️ Email: your-email@example.com
-- 💬 Discord: yourdiscord#1234
+- ✉️ Email: cetin123453@outlook.com  
+- 💬 Discord: melocet
 
 ---
 _"The world isn’t perfect. But it’s there for us trying the best it can. That’s what makes it so damn beautiful."_ – Roy Mustang (FMA: Brotherhood)
