@@ -19,7 +19,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melocet&show_icons=true&theme=tokyonight)
 
 ### 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/b0o2v0e8dxkd502nupvovhw80?si=e8cd9744356441da)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/deaa28c4066f41628cfb13765acff2d0)
 
 ### 📫 Contact Me
 - ✉️ Email: cetin123453@outlook.com  
