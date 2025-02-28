@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Welcome to My GitHub Profile!
 
-<!--
-**Melocet/Melocet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anime Banner](https://i.imgur.com/QKdpB.jpg)  
 
-Here are some ideas to get you started:
+### 🌸 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 Passionate about coding & anime
+- 💻 Currently working with **Ubuntu on a 2012 MacBook Pro**
+- 🏋️ Fitness enthusiast (but no squats or deadlifts for now 😅)
+- 🥩 Steak lover, every single day!
+
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+### 🏆 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+### 🎵 Now Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+### 📫 Contact Me
+- ✉️ Email: your-email@example.com
+- 💬 Discord: yourdiscord#1234
+
+---
+_"The world isn’t perfect. But it’s there for us trying the best it can. That’s what makes it so damn beautiful."_ – Roy Mustang (FMA: Brotherhood)
