@@ -19,8 +19,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melocet&show_icons=true&theme=tokyonight)
 
 ### 📫 Contact Me
-- ✉️ Email: cetin123453@outlook.com  
-- 💬 Discord: melocet
+- ✉️ Email: -
+- 💬 Discord: -
 
 ---
 _"The world isn’t perfect. But it’s there for us trying the best it can. That’s what makes it so damn beautiful."_ – Roy Mustang (FMA: Brotherhood)
